@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations" : "5.0",
+    "outFile": "./bin/game.js",
+    "allowJs": true,
+    "strict": true
+  },
+  "include": ["src/**/*.ts"],
+  "extends": "./node_modules/decentraland-ecs/types/tsconfig.json"
+}
