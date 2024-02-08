@@ -1,0 +1,33 @@
+{
+  "name": "ova_dcl-fine-arts",
+  "version": "1.0.0",
+  "description": "Fine Arts Gallery by OVA.Design",
+  "author": {
+    "name": "OVA.Design"
+  },
+  "scripts": {
+    "start": "sdk-commands start",
+    "start-no-debug": "sdk-commands start --no-debug",
+    "start-desktop": "sdk-commands start --desktop-client",
+    "start-desktop-no-debug": "sdk-commands start --desktop-client --no-debug",
+    "deploy": "sdk-commands deploy",
+    "deploy:world": "sdk-commands deploy --target-content https://worlds-content-server.decentraland.org",
+    "build": "sdk-commands build",
+    "upgrade-sdk": "npm install --save-dev @dcl/sdk@latest",
+    "upgrade-sdk:next": "npm install --save-dev @dcl/sdk@next"
+  },
+  "devDependencies": {
+    "@dcl/js-runtime": "7.3.35",
+    "@dcl/sdk": "^7.3.35"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=6.0.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120,
+    "trailingComma": "none"
+  }
+}
