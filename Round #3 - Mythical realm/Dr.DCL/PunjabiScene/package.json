@@ -7,11 +7,12 @@
     "deploy": "sdk-commands deploy",
     "build": "sdk-commands build",
     "upgrade-sdk": "npm install --save-dev @dcl/sdk@latest",
-    "upgrade-sdk:next": "npm install --save-dev @dcl/sdk@next"
+    "upgrade-sdk:next": "npm install --save-dev @dcl/sdk@next",
+    "postinstall": "npx patch-package"
   },
   "devDependencies": {
-    "@dcl/asset-packs": "latest",
-    "@dcl/js-runtime": "7.4.3",
+    "@dcl/asset-packs": "^1.14.0",
+    "@dcl/js-runtime": "7.4.9",
     "@dcl/sdk": "latest"
   },
   "engines": {
