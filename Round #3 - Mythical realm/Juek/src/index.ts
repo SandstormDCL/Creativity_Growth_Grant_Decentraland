@@ -12,11 +12,40 @@ ReactEcsRenderer.setUiRenderer(ui.render)
 const mainweapon = "models/Hunt_Weapon.glb"
 const testweapon = "models/Weapon.glb"
 
-const full = engine.addEntity()
-GltfContainer.create(full,{src:"models/Game.glb"})
-const trans1 = Transform.create(full ,{
+const full1 = engine.addEntity()
+GltfContainer.create(full1,{src:"models/Main.glb"})
+const trans1 = Transform.create(full1 ,{
     position: Vector3.create(35,0,30.5)
 })
+
+
+const full2 = engine.addEntity()
+GltfContainer.create(full2,{src:"models/Level_1_Part1.glb"})
+const trans2 = Transform.create(full2 ,{
+    position: Vector3.create(35,0,30.5)
+})
+
+
+const full3 = engine.addEntity()
+GltfContainer.create(full3,{src:"models/Level1_Swing.glb"})
+const trans3 = Transform.create(full3 ,{
+    position: Vector3.create(35,0,30.5)
+})
+
+const full4 = engine.addEntity()
+GltfContainer.create(full4,{src:"models/Level_2.glb"})
+const trans4 = Transform.create(full4 ,{
+    position: Vector3.create(35,0,30.5)
+})
+
+const full5 = engine.addEntity()
+GltfContainer.create(full5,{src:"models/Level_3.glb"})
+const trans5 = Transform.create(full5 ,{
+    position: Vector3.create(35,0,30.5)
+})
+
+
+
 
 const Medusa = engine.addEntity()
 GltfContainer.create(Medusa,{src:"models/Medusa.glb"})
