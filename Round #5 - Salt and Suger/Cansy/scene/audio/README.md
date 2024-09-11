@@ -1,6 +1,9 @@
-# Decentraland Sound Library (dcl sound library)
+# Audio Files
 
-A sound and music library, royalty free use for builders in Decentraland
+The audio files contained in this folder were generated using Udio.
 
-Find the original library here:
-[text](https://github.com/BillyTeacoin/dclsoundlibrary)
+### License and Usage Guidelines
+
+- **Commercial Use**: The generated audio files may be used for commercial purposes (e.g., distributing on music streaming platforms, using in monetized videos, licensing for use in TV/movies/advertisements)
+
+- **Repurposing**: You are allowed to re-record, sample, or otherwise repurpose the generated content

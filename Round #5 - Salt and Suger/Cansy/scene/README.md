@@ -6,15 +6,19 @@ Just add the mp3 into the audio folder and update the playlist.ts file.
 
 ![Julebox Salt & Sugar in Deventraland (Scene Preview)](images/screenshot.jpg)
 
-# Audio
+# Updates
 
-Audio files are from the Decentraland Sound Library
-https://github.com/BillyTeacoin/dclsoundlibrary
+The most up to date version you can find here
+https://github.com/CansyLand/dcl-jukebox
 
 # Sandstorm
 
 Created Within the scope of the Sandstorm creativity & Growth grant:
 https://app.sandstorm.co/build/99/view/decentraland-dao-c-g-grant-5-salt-sugar
+
+| ![Julebox Salt Dancing in Decentraland](images/salt_dancing.jpg) | ![Julebox Sugar Dancing in Decentraland](images/sugar_dancing.jpg) |
+| :--------------------------------------------------------------: | :----------------------------------------------------------------: |
+|                       Julebox Salt Dancing                       |                       Julebox Sugar Dancing                        |
 
 # License 3D Files
 

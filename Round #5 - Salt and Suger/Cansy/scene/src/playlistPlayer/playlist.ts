@@ -2,19 +2,19 @@ import { Playlist } from './playlistPlayer'
 
 export const playlist: Playlist = [
   {
-    filename: 'audio/Aaron_Leupp-Waifumon_64.mp3',
-    duration: 90
+    filename: 'audio/Crystal Whispers.mp3',
+    duration: 32 // in seconds
   },
   {
-    filename: 'audio/Classical_GymnopedieNo1_glasspiano_64.mp3',
-    duration: 166
+    filename: 'audio/Neon Sweetness.mp3',
+    duration: 32
   },
   {
-    filename: 'audio/James Halliday, MetaArchs - Decentraland Anthem_64.mp3',
-    duration: 100
+    filename: 'audio/Salty Rhythms.mp3',
+    duration: 32
   },
   {
-    filename: 'audio/Tudamoon_Presents-The_Time_is_Now_64.mp3',
-    duration: 246
+    filename: 'audio/Sweetheart Serenade.mp3',
+    duration: 32
   }
 ]
