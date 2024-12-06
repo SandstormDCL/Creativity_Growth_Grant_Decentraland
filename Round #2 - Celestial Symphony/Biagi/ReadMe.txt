@@ -6,7 +6,7 @@ Discord: @Biagi
 Twitter: @3d_biagi
 Website: https://biagi98.artstation.com/
 
-for Round #6 of Decentraland's Creativity & Growth
+for Decentraland's Creativity & Growth
 
 Licenses: 
 
