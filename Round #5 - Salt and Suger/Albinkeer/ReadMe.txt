@@ -4,7 +4,7 @@ Email: albina.dzzz@gmail.com
 Discord: @Albinkeer
 Twitter: @Albinkeer
 
-for Round #6 of Decentraland's Creativity & Growth
+for Decentraland's Creativity & Growth
 
 Licenses: 
 
