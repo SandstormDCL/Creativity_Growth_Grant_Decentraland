@@ -1,4 +1,4 @@
-This Experience - "Mythical Relm"
+This Experience - "Mythical Realm"
 Was created by "Juek"
 
 Email : jeunissemble@gmail.com (For Questions and Support)
